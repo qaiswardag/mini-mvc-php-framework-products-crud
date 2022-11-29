@@ -1,6 +1,6 @@
 # Mini MVC framework with custom routing
 
-- Working with forms
+- Forms
 - File uploading and file validation
-- Working with mysql
+- Mysql
 - Composer and autoloading
